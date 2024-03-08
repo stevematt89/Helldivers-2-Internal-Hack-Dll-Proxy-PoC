@@ -30,4 +30,5 @@ class GameData
 		bool	Speedhack = false;
 
 		bool	OHK = false;
+
 };
